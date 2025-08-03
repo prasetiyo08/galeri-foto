@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/galeri-foto/static/css/main.8b375d4d.css",
+    "main.js": "/galeri-foto/static/js/main.e0e0ede5.js",
+    "static/js/453.3a5554a6.chunk.js": "/galeri-foto/static/js/453.3a5554a6.chunk.js",
+    "static/media/2024_08_13_18_10_IMG_1375.JPG": "/galeri-foto/static/media/2024_08_13_18_10_IMG_1375.66579cfc28d4f4bbff8b.JPG",
+    "index.html": "/galeri-foto/index.html",
+    "main.8b375d4d.css.map": "/galeri-foto/static/css/main.8b375d4d.css.map",
+    "main.e0e0ede5.js.map": "/galeri-foto/static/js/main.e0e0ede5.js.map",
+    "453.3a5554a6.chunk.js.map": "/galeri-foto/static/js/453.3a5554a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b375d4d.css",
+    "static/js/main.e0e0ede5.js"
+  ]
+}
